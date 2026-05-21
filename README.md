@@ -1,5 +1,9 @@
 # Eduardo 
 
+## Technical Skills
+- Primary Language: 
+- Tools: InteliJ, SceneBuilder, VS Code (GitHub Codespaces), Git (commit, push, branch, merge, pull requests), GitHub pages, MermaidUML
+
 ## SUMMARY OF QUALIFICATIONS
 Effective time management with ability to multi-task and prioritize responsibilities 
 Proficient in Adobe Creative Suite and Microsoft Office Suite 
@@ -63,10 +67,5 @@ Example: 
 Software: Google Drive, Microsoft Office, Adobe Products, 
 Language: Fluent in Spanish
 Communication: Sales techniques, coaching students, leading team meetings, facilitating tough conversations
-
-## Relevant Coursework
-
-Intorduction to Computer Science I: Java
-
 
 
