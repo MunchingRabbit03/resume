@@ -64,5 +64,9 @@ Software: Google Drive, Microsoft Office, Adobe Products,
 Language: Fluent in Spanish
 Communication: Sales techniques, coaching students, leading team meetings, facilitating tough conversations
 
+## Relevant Coursework
+
+Intorduction to Computer Science I: Java
+
 
 
