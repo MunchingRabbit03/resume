@@ -1,5 +1,4 @@
-# Eduardo Martin 
-San Diego County, CA 
+## San Diego County, CA 
 
 ## Technical Skills
 - Primary Language: Java
